@@ -1,0 +1,16 @@
+General:
+- decide on tech: 
+  C# or Python backend?
+  Vite/react Frontend?
+  NoSQL db. Redis?
+
+Backend:
+  - POST request to create new short url/key. If already exists return existing.
+  - GET request to fetch long url based on short
+  - DELETE request?
+  
+Frontend:
+  - Design
+  - Form to submit
+  - Redirect link
+  - Implement backend
